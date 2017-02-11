@@ -5,7 +5,7 @@ public class SomeProgram {
     }
     
     public void manageRockets() {
-        // TODO kiedys kjhsdfkjto zrobie
+        // TODO kiedys kvsdfasdfjhsdfkjto zrobie
     }
     
     public void manageTheSatellite() {
