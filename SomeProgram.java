@@ -7,4 +7,8 @@ public class SomeProgram {
     public void manageRockets() {
         // TODO kiedys to zrobie
     }
+    
+    public void manageTheSatellite() {
+        // TODO implement
+    }
 }
